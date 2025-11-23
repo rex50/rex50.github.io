@@ -1,0 +1,225 @@
+{
+    "hero": {
+        "name": "Pavitra Raut",
+        "title": "Senior Software Engineer",
+        "subtitle": "Android | Kotlin | Java",
+        "cta": "Initiate Contact"
+    },
+    "about": {
+        "title": "System Info",
+        "image": "images/profile.jpg",
+        "summary": "Android Developer with 7+ years of experience building performant, scalable apps using Kotlin, Jetpack Compose, and modern architecture. Proven success leading production-grade development in automotive and edtech sectors.",
+        "experience_summary": "Experience of 3+ years results in brief knowledge of Android components, which further helps me to design & deploy stable & maintainable app.",
+        "goals": [
+            {
+                "title": "High Quality Apps",
+                "description": "A quality & easy to use app can reach and adopted by millions."
+            },
+            {
+                "title": "Bleeding Edge Tech",
+                "description": "Giving a try to the latest technologies is what I've loved."
+            },
+            {
+                "title": "Happy Clients",
+                "description": "I take full responsibility so my clients can chill."
+            }
+        ]
+    },
+    "experience": {
+        "title": "Execution Logs",
+        "jobs": [
+            {
+                "company": "Harman | Mercedes-Benz",
+                "date": "May 2022 - Present | Bengaluru",
+                "role": "Senior Software Engineer",
+                "details": [
+                    {
+                        "heading": "AMG Team Achievements",
+                        "items": [
+                            "Extensive hands-on experience with Jetpack Compose in production-grade application (Mercedes-Benz Stories).",
+                            "Led the successful migration to Here Maps Explore Edition & Google Maps, significantly enhancing user interaction & visualization for the AMG app.",
+                            "Collaborated with the Here team to optimize map integration within listings, achieving an impressive 80% performance improvement."
+                        ]
+                    },
+                    {
+                        "heading": "Technical Leadership",
+                        "items": [
+                            "Leading the creation of a reusable Map SDK layer enabling seamless switching between different map SDKs.",
+                            "Elevated code quality by 30% through architectural leadership, ensuring long-term maintainability.",
+                            "Spearheaded the creation of comprehensive test suites, guaranteeing reliable and robust code functionality.",
+                            "Exploring KMM with different use cases for feasibility of the implementation.",
+                            "Delivered innovative solutions for complex implementation challenges, fostering team success."
+                        ]
+                    }
+                ]
+            },
+            {
+                "company": "Wonderslate | Prepjoy",
+                "date": "August 2019 - April 2022 | Bengaluru",
+                "role": "Mobile Software Engineer",
+                "details": [
+                    {
+                        "heading": "Wonderslate & White Label Apps",
+                        "items": [
+                            "Significantly enhanced functionality for Wonderslate and white labels, boosting user engagement and functionality by ~20%."
+                        ]
+                    },
+                    {
+                        "heading": "Technical Innovation",
+                        "items": [
+                            "Led the adoption of Kotlin and Multi-module MVVM (Google-recommended architecture) resulting in a 30% reduction in bugs.",
+                            "Implemented Koin for dependency injection, leading to improved code maintainability and streamlined testing.",
+                            "Developed core functionalities utilized in 70% of user interactions:",
+                            "Library: Streamlined access to acquired ebooks and courses.",
+                            "Cart Feature: Simplified ebook selection and facilitated simultaneous purchases.",
+                            "Video Playback: Enhanced interactive learning with seamless playback for both \"Livestream\" and \"Recorded\" classes using Exoplayer."
+                        ]
+                    }
+                ]
+            },
+            {
+                "company": "Genisys",
+                "date": "April 2018 - June 2019 | Surat",
+                "role": "Junior Android App Developer",
+                "details": [
+                    {
+                        "items": [
+                            "Leveraged newly acquired Android development skills to develop more than 3 small products."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "skills": {
+        "title": "Modules Installed",
+        "key_skills": [
+            "Jetpack Compose",
+            "Kotlin",
+            "MVVM (Multi-module)",
+            "Android Architecture Components",
+            "Koin/Hilt",
+            "Coroutines/Flow",
+            "Room DB",
+            "REST APIs",
+            "Google & Here Maps SDK",
+            "ExoPlayer",
+            "KMM (Exploring)"
+        ],
+        "tech_stack": [
+            "images/tech/logo_kotlin.svg",
+            "images/tech/logo_java.svg",
+            "images/tech/logo_android.svg"
+        ],
+        "tools": [
+            "images/tools/logo_android_studio.svg",
+            "images/tools/logo_github.svg",
+            "images/tools/logo_firebase.svg",
+            "images/tools/logo_figma.svg"
+        ]
+    },
+    "projects": {
+        "title": "Deployed Projects",
+        "items": [
+            {
+                "name": "Utkarsh",
+                "image": "images/Utkarsh.png",
+                "link": "https://play.google.com/store/apps/details?id=com.utkarshnew.android",
+                "description": "One-Stop Learning Platform for students preparing for school & competitive exams with 5M+ registered users."
+            },
+            {
+                "name": "Wonderslate",
+                "image": "images/Wonderslate.png",
+                "link": "https://play.google.com/store/apps/details?id=com.wonderslate.wonderpublish",
+                "description": "Redefining the learning experience with eBooks, audiobooks, videos, and interactive quizzes."
+            },
+            {
+                "name": "Giant Square",
+                "image": "images/Giant-Square.png",
+                "link": "https://play.google.com/store/apps/details?id=mws.photography.ninecutsquaregrid.forinstagram",
+                "description": "Giant Square & Grid Maker for Instagram. Split photos, Panorama effects, and more."
+            }
+        ],
+        "other_products": [
+            {
+                "name": "Mercedes-Benz Stories",
+                "link": "#"
+            },
+            {
+                "name": "Mercedes-Benz Connect",
+                "link": "#"
+            },
+            {
+                "name": "Winners",
+                "link": "#"
+            },
+            {
+                "name": "Griddy",
+                "link": "#"
+            }
+        ]
+    },
+    "blog": {
+        "title": "Data Logs",
+        "items": [
+            {
+                "title": "Start with Kotlin?",
+                "date": "2 Feb, 2022",
+                "image": "images/blog/img-blog-kotlin.png",
+                "link": "https://rex50.medium.com/should-you-start-with-kotlin-as-a-beginner-coder-1ea4e9c6169e",
+                "description": "Should I recommend learning Kotlin language to beginner coders? Let's find out."
+            },
+            {
+                "title": "Animated Splash Screen",
+                "date": "11 Jan, 2021",
+                "image": "images/blog/img-blog-animated-splash.png",
+                "link": "https://rex50.medium.com/amazing-animated-splash-screen-kotlin-and-lottie-how-to-b98504005abf",
+                "description": "How to create an amazing animated splash screen using Kotlin and Lottie."
+            },
+            {
+                "title": "View Binding in 5 mins",
+                "date": "2 Apr, 2021",
+                "image": "images/blog/img-blog-view-binding.png",
+                "link": "https://rex50.medium.com/learn-basic-view-binding-in-5-mins-the-easiest-way-3126da896583",
+                "description": "Learn basic View binding in 5 mins, The easiest way!"
+            },
+            {
+                "title": "What is KMM?",
+                "date": "17 Oct, 2021",
+                "image": "images/blog/img-blog-kmm.png",
+                "link": "https://rex50.medium.com/what-is-kmm-is-multiplatform-programming-is-going-to-boom-efddf59059f5",
+                "description": "Is Multiplatform programming going to boom? What is KMM and how is it better?"
+            }
+        ]
+    },
+    "contact": {
+        "title": "Transmission",
+        "coordinates": {
+            "location": "Bengaluru, India",
+            "phone": "+91 7016258605",
+            "email": "pareshraut50@gmail.com"
+        },
+        "social": [
+            {
+                "icon": "icon-instagram2",
+                "link": "https://www.instagram.com/rex50.codes/"
+            },
+            {
+                "icon": "icon-twitter2",
+                "link": "https://twitter.com/pareshraut50/"
+            },
+            {
+                "icon": "icon-file-text2",
+                "link": "https://rex50.medium.com/"
+            },
+            {
+                "icon": "icon-behance",
+                "link": "https://www.behance.net/rex50/"
+            },
+            {
+                "icon": "icon-github",
+                "link": "https://www.github.com/rex50/"
+            }
+        ]
+    }
+}
